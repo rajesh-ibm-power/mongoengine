@@ -16,8 +16,8 @@
 language: python
 dist: xenial
 arch:
-   - amd64
-   - ppc64le 
+  - amd64
+  - ppc64le 
 python:
   - 3.6
   - 3.7
